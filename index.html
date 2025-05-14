@@ -7,79 +7,60 @@
     <meta name="author" content="Laura Nery" />
     <meta name="keywords" content="HTML, CSS, JavaScript" />
     <link rel="icon" type="image/svg+xml" href="./assets/img/favicon.svg" />
+
+    <link rel="stylesheet" href="./assets/css/style.css" />
+
     <title>Portfólio - Lau Nery</title>
 </head>
 <body>
 
     <!-- Cabeçalho do Portfólio -->
     <header>
-        <div id="header_content">
-
-            <!-- Título do Cabeçalho -->
-            <div id="titulo">
+        <div class="header_content" class="flex">
+            <div class="titulo">
                 <h1>Laura Nery</h1>
             </div>
-
-            <!-- Conteúdo do Menu da Página -->
-            <div id="menu_container">
+            <div class="menu_container">
                 <nav>
-                    <ul id="menu">
+                    <ul class="menu">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="contato.html">Contato</a></li>
                     </ul>
                 </nav>
             </div>
-
         </div>
     </header>
 
     <!-- Seção Principal da Página -->
     <main>
-
         <!-- Sobre Mim -->
-        <section id="about">
+        <section class="about" class="flex">
             <h2>Quem é a Laura?</h2>
-
-            <div id="conteudo">
-                <img src="./assets/img/usuario.jpg" alt="Foto de Laura Nery" width="300" />
-
-                <article id="sobre_texto">
-                    <p>
-                        Novata na tecnologia com muita sede de aprender e enfrentar novos desafios. Busco uma oportunidade na área de tecnologia.
-                    </p>
-                    <p>
-                        No momento me encontro em um novo desafio: estou em transição de carreira para me inserir na área de Tecnologia.
-                    </p>
-                    <p>
-                        Está sendo mágico me reencontrar em uma nova área e em outra função. Espero compartilhar essa nova fase com todos vocês.
-                        Tenho experiência no mercado financeiro nas áreas financeira e administrativa, com gestão de caixa e vendas de produtos bancários.
-                    </p>
+            <div class="conteudo" class="flex">
+                <img src="./assets/img/usuario.jpg" alt="Foto de Laura Nery" width="300" class="img_profile" />
+                <article class="sobre_texto">
+                    <p>Novata na tecnologia com muita sede de aprender e enfrentar novos desafios. Busco uma oportunidade na área de tecnologia.</p>
+                    <p>No momento me encontro em um novo desafio: estou em transição de carreira para me inserir na área de Tecnologia.</p>
+                    <p>Está sendo mágico me reencontrar em uma nova área e em outra função. Espero compartilhar essa nova fase com todos vocês. Tenho experiência no mercado financeiro nas áreas financeira e administrativa, com gestão de caixa e vendas de produtos bancários.</p>
                 </article>
             </div>
         </section>
 
         <!-- Vídeo Favorito -->
-        <section id="video">
+        <section class="video" class="flex_start">
             <h2>Meu vídeo favorito:</h2>
-
-            <div class="youtube">
-                <iframe
-                    title="Vídeo favorito de Laura Nery"
-                    width="560"
-                    height="315"
-                    src="https://www.youtube.com/embed/Z3_mtwMMuGI?si=F1QiiDYSfsPG3nF0"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
-                ></iframe>
+            <div class="youtube" class="flex">
+                <iframe title="Vídeo favorito de Laura Nery" width="560" height="315"
+                    src="https://www.youtube.com/embed/Z3_mtwMMuGI?si=F1QiiDYSfsPG3nF0" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
             </div>
         </section>
-
     </main>
 
-    <!-- Rodapé do Portfólio -->
-    <footer>
-        <section id="redes_sociais">
+    <!-- Rodapé -->
+    <footer class="flex">
+        <section class="redes_sociais">
             <a href="https://www.linkedin.com/in/laura-nery-lon1999/" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
             </a>
@@ -90,7 +71,6 @@
                 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-mail" width="40" height="40" />
             </a>
         </section>
-
         <h3>Feito com carinho por Laura Nery - 2025 🧡</h3>
     </footer>
 
