@@ -1,14 +1,16 @@
 # ✨ Portfólio de Laura Nery
 
-Este portfólio foi criado para apresentar minha jornada de maneira simples e objetiva.
+Sou **Laura Nery**, apaixonada por tecnologia, inovação e desafios.  
+Estou em transição de carreira para conquistar meu espaço na área de Tecnologia, trazendo comigo experiência no mercado financeiro e administrativa.
 
 ---
 
 ## 👩‍💻 Quem é a Laura?
 
-Sou apaixonada por aprender novas tecnologias e enfrentar desafios.
-Estou em transição de carreira para ingressar na área de Tecnologia, buscando sempre evoluir e contribuir com projetos inovadores.
-Tenho experiência no mercado financeiro nas áreas financeira e administrativa, com gestão de caixa e vendas de produtos bancários. 
+- 💡 Apaixonada por aprender novas tecnologias
+- 🎯 Focada em evoluir e contribuir com projetos inovadores
+- 📈 Experiência em gestão financeira e vendas bancárias
+- 🚧 Em constante construção rumo à minha nova carreira tech 
 
 ---
 
@@ -18,6 +20,7 @@ Tenho experiência no mercado financeiro nas áreas financeira e administrativa,
 | ![HTML](https://cdn-icons-png.flaticon.com/512/1051/1051377.png) | ![CSS](https://cdn-icons-png.flaticon.com/512/732/732190.png) | ![JavaScript](https://cdn-icons-png.flaticon.com/512/919/919828.png) |
 |:--:|:--:|:--:|
 | **HTML** | **CSS** | **JavaScript** |
+
 
 ---
 
@@ -39,8 +42,8 @@ Assista ao meu vídeo favorito abaixo:
 
 ---
 
-## Agradecimentos
+## 🎉 Obrigada pela visita!
 
-Obrigada pela visita! Sinta-se à vontade para entrar em contato.
+Sinta-se à vontade para entrar em contato, trocar ideias e sugestões.
 
 ---
