@@ -17,11 +17,11 @@ Estou em transição de carreira para conquistar meu espaço na área de Tecnolo
 ## 🛠 Tecnologias utilizadas
 
 
-### ![HTML5 Icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg) **HTML**  
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="40" height="40"> **HTML**    
 
-### ![CSS3 Icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg) **CSS**  
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="40" height="40"> **CSS** 
 
-### ![JavaScript Icon](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg) **JavaScript**  
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="40" height="40"> **JavaScript**  
 
 
 ---
