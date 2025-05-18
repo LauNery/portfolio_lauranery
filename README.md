@@ -28,6 +28,7 @@ Estou em transição de carreira para conquistar meu espaço na área de Tecnolo
 
 ## 🎥 Meu vídeo favorito
 
+
 Journey - Don't Stop Believin'
 
 [![Vídeo do YouTube](https://img.youtube.com/vi/VcjzHMhBtf0/0.jpg)](https://www.youtube.com/embed/VcjzHMhBtf0?si=wIOqxl-46ba44mR4)
