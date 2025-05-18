@@ -39,9 +39,11 @@ Journey - Don't Stop Believin'
 
 ## 📫 Contato
 
-🔹 **Gmail:** [laura.olivernery@gmail.com](mailto:laura.olivernery@gmail.com)  
-🔹 **LinkedIn:** [linkedin.com/in/laura-nery-lon1999](https://www.linkedin.com/in/laura-nery-lon1999/)  
-🔹 **WhatsApp:** [(11) 95993-7930](https://wa.me/5511959937930)
+![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png) **Gmail:** [laura.olivernery@gmail.com](mailto:laura.olivernery@gmail.com)  
+
+![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/laura-nery-lon1999](https://www.linkedin.com/in/laura-nery-lon1999/)  
+
+![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png) **WhatsApp:** [Clique aqui para conversar](https://wa.me/5511959937930)
 
 ---
 
