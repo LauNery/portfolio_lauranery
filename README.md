@@ -39,7 +39,7 @@ Journey - Don't Stop Believin'
 
 ## 📫 Contato
 
-- 📧 Email: laura.nery@gmail.com
+- 📧 Email: laura.olivernery@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/lauranery](https://linkedin.com/in/lauranery)
 - 📱 WhatsApp: (11) 95993-7930
 
