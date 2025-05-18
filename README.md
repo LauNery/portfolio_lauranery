@@ -1,6 +1,6 @@
 # ✨ Portfólio de Laura Nery
 
-Sou **Laura Nery**, apaixonada por tecnologia, inovação e desafios.  
+Sou **Laura Nery**, novata na tecnologia com muita sede de aprender e enfrentar novos desafios.  
 Estou em transição de carreira para conquistar meu espaço na área de Tecnologia, trazendo comigo experiência no mercado financeiro e administrativa.
 
 ---
